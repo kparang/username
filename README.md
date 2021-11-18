@@ -27,23 +27,23 @@ Complete the innformaton below
 
 ## Identifying Information
 
-* Name:
-* Student ID:
-* Email:
-* Course:
-* Assignment:
+* Name: Kevan Parang
+* Student ID: 2368828
+* Email: kparang@chapman.edu
+* Course: CPSC298
+* Assignment: username.sh
 
 ## Source Files
 
-*
+* username.sh
 
 ## References
 
-*
+* https://tldp.org/LDP/Bash-Beginners-Guide/html/sect_04_02.html
 
 ## Known Errors
 
-*
+* None
 
 ## Build Instructions
 
@@ -51,4 +51,4 @@ Complete the innformaton below
 
 ## Execution Instructions
 
-*
+* ./username.sh
